@@ -28,7 +28,7 @@ The dashboard provides insights into trip durations, seasonal trends, peak seaso
 ## 📊 Dashboard Previews
 
 ### Trip Durations
-![Trip Durations](Screenshot1.png)
+![Trip Durations]([Screenshot1.png](https://github.com/saheb1999/Cyclystic-Data-Analysis/blob/main/Trip%20Durations.png))
 
 ### Seasonal Analysis
 ![Seasonal Analysis](Screenshot2.png)
